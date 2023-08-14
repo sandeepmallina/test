@@ -1,0 +1,5 @@
+{{#user}
+Name: Sandeep
+Skills: HTML, CSS, JS, React.js,Tailwind CSS
+Email: mallinasandeep21@gmail.com
+{{/user}}
